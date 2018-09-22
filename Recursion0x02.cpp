@@ -1,5 +1,5 @@
 #include <iostream>
-#include <string>
+
 
 using namespace std;
 int Contar(int arre[],int tam,int x,int y); 
